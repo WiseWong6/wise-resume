@@ -1,0 +1,10 @@
+.DS_Store
+.zcode/
+
+# 本机资料和可再生成的检查产物。
+/private/
+/examples/
+/*.pdf
+/.artifacts/
+__pycache__/
+*.py[cod]
