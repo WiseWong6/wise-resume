@@ -29,7 +29,7 @@
 - 排版细节唯一来源是 `assets/template/DESIGN-SPEC.md`。
 - 两个中性模板为 `assets/template/index.html`（多页竖版）、`portrait.html`（单页侧版），共享同目录 `assets/` 中的字体、样式、控件和分页。
 
-以上资源路径相对于 Skill 目录。真实简历和交付文件放在仓库外或已忽略的 `private/`。
+以上资源路径相对于 Skill 目录。
 
 ## 先交 HTML
 
